@@ -1,0 +1,139 @@
+Arrowhead
+Boundary Waters
+Buffalo Ridge
+Central
+Coteau des Prairies
+Dissected Till Plains
+Driftless Area
+Iron Range
+Minnesota River Valley
+North Shore
+Northwest Angle
+North Woods
+Pipestone
+Red River Valley
+Siouxland
+Southeast
+Twin Cities metropolitan area
+Andover
+Apple Valley
+Blaine
+Bloomington
+Brooklyn Center
+Brooklyn Park
+Burnsville
+Coon Rapids
+Cottage Grove
+Duluth
+Eagan
+Eden Prairie
+Edina
+Fridley
+Inver Grove Heights
+Lakeville
+Mankato
+Maple Grove
+Maplewood
+Minneapolis
+Minnetonka
+Moorhead
+Oakdale
+Owatonna
+Plymouth
+Prior Lake
+Ramsey
+Richfield
+Rochester
+Roseville
+St. Cloud
+St. Louis Park
+Saint Paul
+Savage
+Shakopee
+Shoreview
+Winona
+Woodbury
+Aitkin county
+Anoka county
+Becker county
+Beltrami county
+Benton county
+Big Stone county
+Blue Earth county
+Brown county
+Carlton county
+Carver county
+Cass county
+Chippewa county
+Chisago county
+Clay county
+Clearwater county
+Cook county
+Cottonwood county
+Crow Wing county
+Dakota county
+Dodge county
+Douglas county
+Faribault county
+Fillmore county
+Freeborn county
+Goodhue county
+Grant county
+Hennepin county
+Houston county
+Hubbard county
+Isanti county
+Itasca county
+Jackson county
+Kanabec county
+Kandiyohi county
+Kittson county
+Koochiching county
+Lac qui Parle county
+Lake county
+Lake of the Woods county
+Le Sueur county
+Lincoln county
+Lyon county
+Mahnomen county
+Marshall county
+Martin county
+McLeod county
+Meeker county
+Mille Lacs county
+Morrison county
+Mower county
+Murray county
+Nicollet county
+Nobles county
+Norman county
+Olmsted county
+Otter Tail county
+Pennington county
+Pine county
+Polk county
+Pope county
+Red Lake county
+Redwood county
+Renville county
+Rice county
+Rock county
+Roseau county
+Saint Louis county
+Scott county
+Sherburne county
+Sibley county
+Stearns county
+Steele county
+Stevens county
+Swift county
+Todd county
+Traverse county
+Wabasha county
+Wadena county
+Waseca county
+Washington county
+Watonwan county
+Wilkin county
+Wright county
+Yellow Medicine county

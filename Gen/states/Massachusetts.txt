@@ -1,0 +1,87 @@
+The Berkshires
+Blackstone Valley
+Cape Ann
+Cape Cod
+Central Massachusetts
+Greater Boston
+The Islands
+Merrimack Valley
+MetroWest
+Montachusett-North County
+North Shore
+Pioneer Valley
+Quabbin-Swift River Valley
+South Coast
+South County
+South Shore
+Southeastern Massachusetts
+Western Massachusetts
+Barnstable county
+Berkshire county
+Bristol county
+Dukes county
+Essex county
+Franklin county
+Hampden county
+Hampshire county
+Middlesex county
+Nantucket county
+Norfolk county
+Plymouth county
+Suffolk county
+Worcester county
+Agawam
+Amesbury
+Attleboro
+Barnstable
+Beverly
+Boston
+Braintree
+Bridgewater
+Brockton
+Cambridge
+Chelsea
+Chicopee
+Easthampton
+Everett
+Fall River
+Fitchburg
+Franklin
+Gardner
+Gloucester
+Greenfield
+Haverhill
+Holyoke
+Lawrence
+Leominster
+Lowell
+Lynn
+Malden
+Marlborough
+Medford
+Melrose
+Methuen
+New Bedford
+Newburyport
+Newton
+North Adams
+Northampton
+Palmer
+Peabody
+Pittsfield
+Quincy
+Randolph
+Revere
+Salem
+Somerville
+Southbridge
+Springfield
+Taunton
+Waltham
+Watertown
+Westfield
+West Springfield
+Weymouth
+Winthrop
+Woburn
+Worcester 

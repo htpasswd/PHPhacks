@@ -1,0 +1,151 @@
+San Francisco
+Fresno
+Sacramento
+Long Beach
+Oakland
+Bakersfield
+Anaheim
+Santa Ana
+Riverside
+Stockton
+Chula Vista
+Fremont
+Irvine
+San Bernardino
+Modesto
+Oxnard
+Fontana
+Moreno Valley
+Glendale
+Huntington Beach
+Santa Clarita
+Garden Grove
+Santa Rosa
+Oceanside
+Rancho Cucamonga
+Ontario
+Lancaster
+Elk Grove
+Palmdale
+Corona
+Salinas
+Pomona
+Torrance
+Hayward
+Escondido
+Sunnyvale
+Pasadena
+Fullerton
+Orange
+Thousand Oaks
+Visalia
+Simi Valley
+Concord
+Roseville
+Santa Clara
+Vallejo
+Victorville
+El Monte
+Berkeley
+Downey
+Costa Mesa
+Inglewood
+Ventura
+West Covina
+Norwalk
+Carlsbad
+Fairfield
+Richmond
+Murrieta
+Burbank
+Antioch
+Daly City
+Temecula
+Alameda
+Alpine
+Amador
+Butte
+Calaveras
+Colusa
+Contra Costa
+Del Norte
+El Dorado
+Glenn
+Humboldt
+Imperial
+Inyo
+Kern
+Kings
+Lake
+Lassen
+Los Angeles
+Madera
+Marin
+Mariposa
+Mendocino
+Merced
+Modoc
+Mono
+Monterey
+Napa
+Nevada
+Placer
+Plumas
+San Benito
+San Diego
+San Joaquin
+San Luis Obispo
+San Mateo
+Santa Barbara
+Santa Cruz
+Shasta
+Sierra
+Siskiyou
+Solano
+Sonoma
+Stanislaus
+Sutter
+Tehama
+Trinity
+Tulare
+Tuolumne
+Yolo
+Yuba
+Los Angeles County
+San Diego County
+Orange County
+Riverside County
+San Bernardino County
+Santa Clara County
+Alameda County
+Sacramento County
+Contra Costa County
+Fresno County
+Kern County
+City and County of San Francisco
+Ventura County
+San Mateo County
+San Joaquin County
+Stanislaus County
+Sonoma County
+Tulare County
+Santa Barbara County
+Solano County
+Monterey County
+Placer County
+San Luis Obispo County
+Santa Cruz County
+Merced County
+Marin County
+Butte County
+Yolo County
+El Dorado County
+Imperial County
+Shasta County
+Madera County
+Kings County
+Napa County
+Humboldt County
+Nevada County
+Sutter County
+Mendocino County

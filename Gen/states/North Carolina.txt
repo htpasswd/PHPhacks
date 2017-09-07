@@ -1,0 +1,193 @@
+Cape Fear
+Coastal Plain
+Crystal Coast
+Eastern
+Foothills
+High Country
+Inner Banks
+Metrolina (Charlotte)
+Outer Banks
+Piedmont
+Piedmont Triad
+Sandhills
+Triangle
+Western
+Asheville
+Cary
+Chapel Hill
+Charlotte
+Concord
+Durham
+Fayetteville
+Gastonia
+Greensboro
+Greenville
+High Point
+Jacksonville
+Raleigh
+Wilmington
+Winston‑Salem
+Albemarle
+Apex
+Asheboro
+Burlington
+Conover
+Eden
+Elizabeth City
+Garner
+Goldsboro
+Graham
+Havelock
+Henderson
+Hendersonville
+Hickory
+Kannapolis
+Kings Mountain
+Kinston
+Laurinburg
+Lenoir
+Lexington
+Lumberton
+Monroe
+Morganton
+New Bern
+Newton
+Reidsville
+Roanoke Rapids
+Rocky Mount
+Salisbury
+Sanford
+Shelby
+Statesville
+Thomasville
+Wake Forest
+Waynesville
+Wilson
+Beaufort
+Boone
+Carrboro
+Clayton
+Cornelius
+Dunn
+Fuquay-Varina
+Harrisburg
+Holly Springs
+Hope Mills
+Huntersville
+Indian Trail
+Kernersville
+Knightdale
+Leland
+Matthews
+Midland
+Mint Hill
+Mooresville
+Morehead City
+Morrisville
+Mount Pleasant
+Oxford
+Shallotte
+Smithfield
+Southern Pines
+Tarboro
+Winterville
+Alamance county
+Alexander county
+Alleghany county
+Anson county
+Ashe county
+Avery county
+Beaufort county
+Bertie county
+Bladen county
+Brunswick county
+Buncombe county
+Burke county
+Cabarrus county
+Caldwell county
+Camden county
+Carteret county
+Caswell county
+Catawba county
+Chatham county
+Cherokee county
+Chowan county
+Clay county
+Cleveland county
+Columbus county
+Craven county
+Cumberland county
+Currituck county
+Dare county
+Davidson county
+Davie county
+Duplin county
+Durham county
+Edgecombe county
+Forsyth county
+Franklin county
+Gaston county
+Gates county
+Graham county
+Granville county
+Greene county
+Guilford county
+Halifax county
+Harnett county
+Haywood county
+Henderson county
+Hertford county
+Hoke county
+Hyde county
+Iredell county
+Jackson county
+Johnston county
+Jones county
+Lee county
+Lenoir county
+Lincoln county
+Macon county
+Madison county
+Martin county
+McDowell county
+Mecklenburg county
+Mitchell county
+Montgomery county
+Moore county
+Nash county
+New Hanover county
+Northampton county
+Onslow county
+Orange county
+Pamlico county
+Pasquotank county
+Pender county
+Perquimans county
+Person county
+Pitt county
+Polk county
+Randolph county
+Richmond county
+Robeson county
+Rockingham county
+Rowan county
+Rutherford county
+Sampson county
+Scotland county
+Stanly county
+Stokes county
+Surry county
+Swain county
+Transylvania county
+Tyrrell county
+Union county
+Vance county
+Wake county
+Warren county
+Washington county
+Watauga county
+Wayne county
+Wilkes county
+Wilson county
+Yadkin county
+Yancey county

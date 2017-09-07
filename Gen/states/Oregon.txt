@@ -1,0 +1,96 @@
+Oregon Coast
+Portland Metro
+Tualatin Valley
+Willamette Valley
+Harney Basin
+High Desert
+Palouse
+Treasure Valley
+Central Oregon
+Rogue Valley
+The Cascades
+Columbia Gorge
+Columbia River
+Columbia Plateau
+Great Basin
+Mount Hood Corridor
+Trout Creek Mountains
+Albany-Corvallis
+Bend-Redmond
+Eugene-Springfield
+Medford-Ashland
+Portland
+Salem-Keizer
+Astoria
+Baker City
+Beaverton
+Brookings
+Coos Bay
+Corvallis
+Florence
+Grants Pass
+Gresham
+Hermiston
+Hillsboro
+Hood River
+Independence
+Klamath Falls
+La Grande
+Lake Oswego
+Lakeview
+Madras
+McMinnville
+Milwaukie
+Monmouth
+Newberg
+Newport
+Ontario
+Oregon City
+Pendleton
+Prineville
+Roseburg
+Sandy
+The Dalles
+Tigard
+Tillamook
+Tualatin
+Umatilla
+West Linn
+Wilsonville
+Woodburn
+Baker county
+Benton county
+Clackamas county
+Clatsop county
+Columbia county
+Coos county
+Crook county
+Curry county
+Deschutes county
+Douglas county
+Gilliam county
+Grant county
+Harney county
+Hood River county
+Jackson county
+Jefferson county
+Josephine county
+Klamath county
+Lake county
+Lane county
+Lincoln county
+Linn county
+Malheur county
+Marion county
+Morrow county
+Multnomah county
+Polk county
+Sherman county
+Tillamook county
+Umatilla county
+Union county
+Wallowa county
+Wasco county
+Washington county
+Wheeler county
+Yamhill county

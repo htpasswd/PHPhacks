@@ -1,0 +1,80 @@
+Kitsap Peninsula
+Long Beach Peninsula
+Olympic Peninsula
+Puget Sound
+San Juan Islands
+Skagit Valley
+Central Washington
+Columbia Plateau
+Methow Valley
+Okanogan Country
+Palouse
+Yakima Valley
+Cascade Range
+Columbia Gorge
+Columbia River
+Seattle
+Spokane
+Tacoma
+Vancouver
+Bellevue
+Kent
+Everett
+Renton
+Yakima
+Federal Way
+Spokane Valley
+Kirkland
+Bellingham
+Kennewick
+Auburn
+Pasco
+Marysville
+Lakewood
+Redmond
+Shoreline
+Richland
+Greater Seattle
+Greater Spokane
+Tri-Cities
+Wenatchee metropolitan area
+Greater Portland and Vancouver
+Adams county
+Asotin county
+Benton county
+Chelan county
+Clallam county
+Clark county
+Columbia county
+Cowlitz county
+Douglas county
+Ferry county
+Franklin county
+Garfield county
+Grant county
+Grays Harbor county
+Island county
+Jefferson county
+King county
+Kitsap county
+Kittitas county
+Klickitat county
+Lewis county
+Lincoln county
+Mason county
+Okanogan county
+Pacific county
+Pend Oreille county
+Pierce county
+San Juan county
+Skagit county
+Skamania county
+Snohomish county
+Spokane county
+Stevens county
+Thurston county
+Wahkiakum county
+Walla Walla county
+Whatcom county
+Whitman county
+Yakima county
